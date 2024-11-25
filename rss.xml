@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Obaveštenja</title>
+		<link>https://kudlazarhrebeljanovic.000webhostapp.com/index.html</link>
+		<description>Obaveštenja sa sajta KUD-a Lazar Hrebeljanović</description>
+		<item>
+			<title>Novogodišnji koncert</title>
+			<link>https://kudlazarhrebeljanovic.000webhostapp.com/index.html</link>
+			<description>30.12.2021. od 19 časova održaće se koncert u zgradi zadužbine Ilije M. Kolarca.</description>
+		</item>
+		<item>
+			<title>Šarenica</title>
+			<link>https://kudlazarhrebeljanovic.000webhostapp.com/index.html</link>
+			<description>Emisija će se emitovati u subotu, 11.12.2021. sa početkom u 10 časova.</description>
+		</item>
+		<item>
+			<title>Upis novih članova</title>
+			<link>https://kudlazarhrebeljanovic.000webhostapp.com/index.html</link>
+			<description>Upis možete izvršiti svakog radnog od 19h do 22h u prostorijama KUD-a.</description>
+		</item>
+	</channel>
+</rss>
